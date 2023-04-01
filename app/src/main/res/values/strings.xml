@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KotlinPractice</string>
+
+
+    <string-array name="language">
+        <item>java</item>
+        <item>kotlin</item>
+        <item>php</item>
+        <item>laravel</item>
+        <item>html</item>
+
+
+    </string-array>
+</resources>
